@@ -1,1 +1,9 @@
 reg no - 12229389, name : Haha, age: 19, add: India
+10th marks: 99
+12th details:
+eng-84
+maths-83
+physics-93
+chem-83
+ug qualification needed -50%
+passed
