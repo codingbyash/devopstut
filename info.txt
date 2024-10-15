@@ -1,6 +1,1 @@
-eng-84
-maths-83
-physics-93
-chem-83
-ug qualification needed -50%
-passed
+adding some more in file in firstbranch
