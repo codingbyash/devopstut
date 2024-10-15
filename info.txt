@@ -4,3 +4,4 @@ physics-93
 chem-83
 ug qualification needed -50%
 passed
+changing in master
